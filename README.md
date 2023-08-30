@@ -13,13 +13,7 @@
 🔬 I'm a museum instructor at MOSH, where I inspire young minds to explore their creativity and imagination.
 
 🐱 I'm a cat lover and owner.
-```
-   /ᐢ⑅ᐢ\   ♡   ₊˚  
-꒰ ˶• ༝ •˶꒱       ♡‧₊˚    ♡
-./づ~ :¨·.·¨:     ₊˚  
-           `·..·‘    ₊˚   ♡
-           
-```
+
 ### 🌟 Skills 🌟
 
 🔮 HTML5, CSS3, JavaScript, C#.
